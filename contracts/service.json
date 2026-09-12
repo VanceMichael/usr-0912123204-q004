@@ -1,5 +1,1 @@
-{
-  "service": "医保目录评审流水服务",
-  "contractVersion": "2026-09",
-  "healthPath": "/health"
-}
+{"service":"医保目录评审流水服务","contractVersion":"2026-09","healthPath":"/health","reviewStates":["imported","negotiating","reviewed","published"],"snapshotMode":"immutable","importErrorScope":"row"}
